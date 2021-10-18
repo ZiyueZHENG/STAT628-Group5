@@ -2,9 +2,9 @@
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 #
-# Find out more about building applications with Shiny here:
+# This app is built to calculate body fat based on several models.
 #
-#    http://shiny.rstudio.com/
+# Author: Yifan Du, ydu76@wisc.edu
 #
 
 library(shiny)
