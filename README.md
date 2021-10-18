@@ -1,10 +1,10 @@
 # STAT 628 BodyFat Project Introduction
 
 
-This project is the coursework for STAT 628 module 2, in which we construct and compare statistical models for body fat calculating and build a basic bodyfat calculator based on R shiny app.
+This project is part of the coursework for STAT 628 module 2, in which we constructed and compared statistical models for the calculation of body fat percentage and then built a basic bodyfat calculator based on the R shiny app.
 
 
-There are four folders providing more details in our main project: Data, Code, R shiny, Image
+There are four folders providing more details for our main project: Data, Code, R shiny, Image.
 
 
 ## Files and Folders
