@@ -16,6 +16,10 @@ There are four folders providing more details in our main project: Data, Code, R
 
 - `\R shiny` contains R code for building the calculator.
 
+### Calculator url
+
+https://stat628-module2-group5.shinyapps.io/BodyFatCalculater/
+
 ## Authors
 * **Ziyue Zheng**(zzheng232@wisc.edu)
 * **Karen Abraham**(kabraham2@wisc.edu)
