@@ -14,6 +14,10 @@ There are four folders providing more details in our main project: Data, Code, R
 
 - `\Image` contains the plots we get through model diagnostic.
 
+- `Summary` contains the summary of our results.
+
+- `Readme` 
+
 ### Calculator url
 
 https://stat628-module2-group5.shinyapps.io/BodyFatCalculater/
